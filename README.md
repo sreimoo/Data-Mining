@@ -1,2 +1,5 @@
 # Data-Mining
-Data Mining-Swinburne
+
+Summary: Work for Data Mining unit as part of unit requirements. Comparing Classification Models.
+
+Languages & Tools: R,Rattle, & RStudio
